@@ -2,7 +2,7 @@
 
 Site institucional desenvolvido para a **Gonçalves Assessoria e Seguros**, com o objetivo de apresentar serviços e facilitar o contato direto com clientes de forma rápida e prática.
 
-A aplicação consiste em uma página leve e responsiva, com formulário de contato integrado ao WhatsApp, permitindo que os usuários enviem suas informações e iniciem uma conversa de forma imediata.
+A aplicação consiste em uma página leve e responsiva, com formulário de contato integrado ao WhatsApp, permitindo que os usuários enviem suas informações e iniciem uma conversa de forma imediata com a acessória.
 
 ## 🚀 Tecnologias utilizadas
 
